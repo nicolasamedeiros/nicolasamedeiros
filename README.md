@@ -1,7 +1,6 @@
 ### Olá, seja bem vindo ao meu perfil 🙂
 
-- 💻 Atualmente fazendo o havard cs50
-- 📚 Estudando C
+- 💻 Atualmente estudando HTML e CSS
 
 <div align="center">
   <a href="https://github.com/nicolasamedeiros">
