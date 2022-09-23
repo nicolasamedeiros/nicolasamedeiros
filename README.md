@@ -1,6 +1,6 @@
 ### Olá, seja bem vindo ao meu perfil 🙂
 
-- 💻 Atualmente estudando HTML e CSS
+- 💻 Atualmente cursando engenharia de software
 
 <div align="center">
   <a href="https://github.com/nicolasamedeiros">
